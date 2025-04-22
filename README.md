@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Machi Takeda
 
-- 💼 I work as an Operations Research Analyst
-- 🤩 My hobbies are music, soccer, and table tennis
-- 😄 Pronouns: He/him
+- 💼 I work as an Operations Research Analyst in the government.
+- 📚 I enjoy analyzing data, especially statistical modeling.
+- 🎓 I have a BS in pure mathematics and an MS in statistics.
+- 🤩 My hobbies are cars, music, soccer, and table tennis.
+- ☝️ My pronouns are he/him/his.
